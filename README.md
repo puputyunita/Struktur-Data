@@ -1,4 +1,5 @@
 1. array satu dimensi bertipe data primitif
+   
      public static void main(String[] args) {
 
         int bulan[] = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
@@ -10,6 +11,7 @@
 }
 --------------------------------------------------------------
 2. array 1 dimensi bertipe data non primitif
+   
     public static void main(String[] args) {
         String buah[] = {"anggur", "apel", "jeruk", "berry", "pisang", "semangka"};
         
@@ -23,6 +25,7 @@
 }
 -----------------------------------------------------------------------
 3. array 2 dimensi betipe data primitif
+   
     public static void main(String[] args) {
         int[][] angka = {
             {80, 78, 90,},
@@ -39,6 +42,7 @@
 }
 -------------------------------------------------------------------------
 4. kode untuk mencetak array
+   
     // Cetak Array menggunakan Array perpustakaan standar
        System.out.println(array.toStriong(array));
    
