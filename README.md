@@ -46,12 +46,15 @@
 -------------------------------------------------------------------------
 4. kode untuk mencetak array
    
-    // Cetak Array menggunakan Array perpustakaan standar =
+    // Cetak Array menggunakan Array perpustakaan standar 
+   
        System.out.println(array.toStriong(array));
    
-    //Cetak Array menggunakan loop For =
+    //Cetak Array menggunakan loop For 
+   
        for (int element: array) {
             System.out.println(element);/*
        
-   //Cetak Array Multidimensi =
+   //Cetak Array Multidimensi 
+   
       System.out.println(Arrays.deepToString(array));
